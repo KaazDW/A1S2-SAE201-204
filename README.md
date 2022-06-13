@@ -9,7 +9,7 @@
 
 
 
-iutbg-lamp.univ-lyon1.fr/edt
+iutbg-lamp.univ-lyon1.fr:3306/edt
 installer wpagui
 sudo wpa-gui
 
@@ -21,10 +21,9 @@ sudo wpa-gui
 
 
 ### JFreeChart DOC
-> https://codes-sources.commentcamarche.net/source/51950-creer-des-graphiques-utilisation-de-jfreechart
-<br />
-Exemple de code JFreeChart : <br />
-- https://www.javatips.net/blog/jfreechart-example
+
+> Exemple de code JFreeChart : <br />
+> https://www.javatips.net/blog/jfreechart-example
 
 ```
 import javax.swing.JFrame;
