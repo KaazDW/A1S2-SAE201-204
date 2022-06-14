@@ -74,3 +74,6 @@ grant all on (database).(table) to myroot with grant option;
 
 Document claroline : configuer NetBeam Remote
 https://clarolineconnect.univ-lyon1.fr/clarolinepdfplayerbundle/pdf/7073456
+
+ActionListener JMenu :
+https://koor.fr/Java/TutorialSwing/swing_JMenuBar.wp
